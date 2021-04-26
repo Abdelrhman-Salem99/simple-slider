@@ -5,9 +5,10 @@ Technology I used
 ---
 - HTML 
 - css 
+- Bootstrap
 - js
+- jquery
 - Fontawesome
-
 
 --- 
 
